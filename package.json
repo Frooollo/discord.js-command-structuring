@@ -1,0 +1,30 @@
+{
+  "name": "discord.js-command-structuring",
+  "version": "1.0.0",
+  "description": "An NPM package that makes it easier to use a discord.js handler",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CiccioFrollo/discord.js-command-structuring.git"
+  },
+  "keywords": [
+    "discord.js",
+    "discord.js-slash-command",
+    "discord.js-slash-commands",
+    "discord.js-command",
+    "discord.js-commands"
+  ],
+  "author": "CiccioFrollo",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/CiccioFrollo/discord.js-command-structuring/issues"
+  },
+  "homepage": "https://github.com/CiccioFrollo/discord.js-command-structuring#readme",
+  "devDependencies": {
+    "discord.js": "14.0.0"
+  },
+  "peerDependencies": {
+    "discord.js": "^14.0.0"
+  }
+}
